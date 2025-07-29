@@ -1,0 +1,14 @@
+{
+  "name": "anzbusiness-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "lucide-react": "^0.300.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
